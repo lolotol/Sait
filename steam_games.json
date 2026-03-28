@@ -1,0 +1,76 @@
+{
+  "last_updated": "2026-03-28T12:01:38.487811Z",
+  "game_count": 79,
+  "top_games": [
+    {
+      "appid": 945360,
+      "name": "Among Us",
+      "playtime_forever": 7925,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg"
+    },
+    {
+      "appid": 394360,
+      "name": "Hearts of Iron IV",
+      "playtime_forever": 6062,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg"
+    },
+    {
+      "appid": 367520,
+      "name": "Hollow Knight",
+      "playtime_forever": 2212,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg"
+    },
+    {
+      "appid": 287390,
+      "name": "Metro: Last Light Redux",
+      "playtime_forever": 2171,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287390/header.jpg"
+    },
+    {
+      "appid": 286690,
+      "name": "Metro 2033 Redux",
+      "playtime_forever": 1955,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286690/header.jpg"
+    },
+    {
+      "appid": 4000,
+      "name": "Garry's Mod",
+      "playtime_forever": 1675,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+    },
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "playtime_forever": 1339,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg"
+    },
+    {
+      "appid": 2923300,
+      "name": "Banana",
+      "playtime_forever": 1082,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923300/header.jpg"
+    },
+    {
+      "appid": 105600,
+      "name": "Terraria",
+      "playtime_forever": 991,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg"
+    },
+    {
+      "appid": 3478870,
+      "name": "GeoGuessr Steam Edition",
+      "playtime_forever": 966,
+      "playtime_2weeks": 966,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478870/header.jpg"
+    }
+  ]
+}
