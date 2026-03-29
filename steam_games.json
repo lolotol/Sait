@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-28T12:13:50.666320Z",
+  "last_updated": "2026-03-29T11:57:27.214601Z",
   "game_count": 79,
-  "top_all_time": [
+  "top_games": [
     {
       "appid": 945360,
       "name": "Among Us",
@@ -22,29 +22,55 @@
       "playtime_forever": 2212,
       "playtime_2weeks": 0,
       "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg"
-    }
-  ],
-  "top_2weeks": [
+    },
+    {
+      "appid": 287390,
+      "name": "Metro: Last Light Redux",
+      "playtime_forever": 2171,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287390/header.jpg"
+    },
+    {
+      "appid": 286690,
+      "name": "Metro 2033 Redux",
+      "playtime_forever": 1955,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286690/header.jpg"
+    },
+    {
+      "appid": 4000,
+      "name": "Garry's Mod",
+      "playtime_forever": 1675,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+    },
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "playtime_forever": 1339,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg"
+    },
+    {
+      "appid": 2923300,
+      "name": "Banana",
+      "playtime_forever": 1082,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923300/header.jpg"
+    },
+    {
+      "appid": 105600,
+      "name": "Terraria",
+      "playtime_forever": 991,
+      "playtime_2weeks": 0,
+      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg"
+    },
     {
       "appid": 3478870,
       "name": "GeoGuessr Steam Edition",
       "playtime_forever": 966,
       "playtime_2weeks": 966,
       "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478870/header.jpg"
-    },
-    {
-      "appid": 1686940,
-      "name": "Bopl Battle",
-      "playtime_forever": 268,
-      "playtime_2weeks": 268,
-      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1686940/header.jpg"
-    },
-    {
-      "appid": 322330,
-      "name": "Don't Starve Together",
-      "playtime_forever": 68,
-      "playtime_2weeks": 68,
-      "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg"
     }
   ]
 }
