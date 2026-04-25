@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-24T04:43:44.733537Z",
+  "last_updated": "2026-04-25T04:43:45.826930Z",
   "game_count": 82,
   "top_games": [
     {
       "appid": 945360,
       "name": "Among Us",
-      "playtime_forever": 8073,
-      "playtime_2weeks": 148,
+      "playtime_forever": 8107,
+      "playtime_2weeks": 182,
       "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg"
     },
     {
