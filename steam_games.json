@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T04:45:48.855200Z",
+  "last_updated": "2026-05-11T04:45:49.941642Z",
   "game_count": 82,
   "top_games": [
     {
@@ -62,7 +62,7 @@
       "appid": 3478870,
       "name": "GeoGuessr Steam Edition",
       "playtime_forever": 1191,
-      "playtime_2weeks": 31,
+      "playtime_2weeks": 0,
       "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478870/header.jpg"
     },
     {
